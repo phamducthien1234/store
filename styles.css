@@ -1,0 +1,29 @@
+html {
+    background-color: rgb(58, 43, 126);
+}
+body {
+    text-align: center;
+    color: white;
+}
+.business-card{
+    color: black;
+    background-color: white;
+    border: 3px solid #E61E2A;
+    padding: 5px 15px;
+    border-radius: 15px;
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+}
+.business-card #logo {
+    width:100px;
+    height: 100px;
+    margin-top: 15px;
+    margin-left:110px;
+}
+.container h1 {
+    font-size: 50px;
+}
+.business-card h2 {
+    font-size: 30px;
+}
